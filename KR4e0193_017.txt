@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南行集
-#+DATE: 2020-03-31 11:38:05.938484
+#+DATE: 2020-03-31 11:38:06.053980
 #+PROPERTY: ID KR4e0193
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 17
 <pb:KR4e0193_WYG_017-1a>¶
 　　欽定四庫全書¶
@@ -40,7 +40,7 @@
 <pb:KR4e0193_WYG_017-2b>¶
 居此堂也陶翁之樂克備有之敢為先生夀於是先生¶
 載色而興抗音而歌曰結廬人境心逺地偏採菊東籬¶
-南山悠然又歌曰曷彼穠矣&KR0177;其華矣我有佳賔德音¶
+南山悠然又歌曰曷彼穠矣燁其華矣我有佳賔德音¶
 懐矣君子與其有陶之風焉¶
 ¶
 　　晝錦堂燕記¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南行集
-#+DATE: 2020-03-31 11:38:05.897544
+#+DATE: 2020-03-31 11:38:06.018000
 #+PROPERTY: ID KR4e0193
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 11
 <pb:KR4e0193_WYG_011-1a>¶
 　　欽定四庫全書¶
@@ -199,13 +199,13 @@
 ¶
 　　赫赫一章章十句¶
 ¶
-　　有&KR0177;　　　詠靖節也¶
+　　有燁　　　詠靖節也¶
 ¶
-　　有&KR0177;黄花味同隠逸爰賦歸來載飲以適五斗非輕萬¶
+　　有燁黄花味同隠逸爰賦歸來載飲以適五斗非輕萬¶
 鍾不益君臣義明我心匪石¶
 ¶
 <pb:KR4e0193_WYG_011-8b>¶
-　　有&KR0177;一章章八句¶
+　　有燁一章章八句¶
 ¶
 　　龍卧　　　詠武侯也¶
 ¶
